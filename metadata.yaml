@@ -1,5 +1,8 @@
 _repo: Representative-Plays-by-American-Dramatists--1856-1911-Introduction-and-Bibliography_12038
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moses, Montrose Jonas
@@ -11,6 +14,8 @@ creator:
 description: 'Rip Van Winkle: a legend of the Catskills / by Charles Burke. -- Francesca
   da Rimini / by George Henry Boker. -- Love in ''76 / by Oliver Bell Bunce. -- ...
   [etc.].'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12038#Representative-Plays-by-American-Dramatists--1856-1911-Introduction-and-Bibliography
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
